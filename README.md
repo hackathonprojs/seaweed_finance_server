@@ -1,5 +1,9 @@
 # Envelope Finance Server
 
+**Authors:**
+- Siamak Ashrafi <biologica@gmail.com>
+- Solomon Wu <apiswswsw@gmail.com>
+
 A Node.js/Express server that uses **Gemini 2.5 Flash** vision AI to analyse a product photo and determine whether it fits in your [envelope budget](https://www.nerdwallet.com/article/finance/envelope-budgeting).
 
 ---
